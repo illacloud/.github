@@ -16,7 +16,7 @@ Help developers build Business Tools more efficiently.
 
 [ILLA Design](https://github.com/illa-family/illa-design): A fully responsive UI Library for React, Vue 3, and Svelte.
 
-[ILLA Builder](https://github.com/illa-family/illa-builder): An open-source low-code Platform for Developer.
+[ILLA Builder](https://github.com/illa-family/illa-builder): An open-source low-code Platform for Developers.
 
 [ILLA](https://github.com/illa-family/illa): Deploy a modern low-code platform in 5 Seconds!
 
