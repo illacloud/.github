@@ -19,7 +19,3 @@ Help developers build Business Tools more efficiently.
 [ILLA Builder](https://github.com/illa-family/illa-builder): An open-source low-code Platform for Developers.
 
 [ILLA](https://github.com/illa-family/illa): Deploy a modern low-code platform in 5 Seconds!
-
-### Cloud Platform
-
-[ILLA Cloud](https://illacloud.com): A powerful cloud hosting platform for developers.
