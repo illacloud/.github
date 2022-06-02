@@ -4,13 +4,13 @@ ILLA is an open-source company. We want to build an exciting low-code tool.
 
 We promise to keep our open-source version up to date forever.
 
-We will stand with **the Developer** through open source forever. 
+We will stand with **the Developers** through open source forever. 
 
 Let's build it together!
 
-### What we want
+### What we want do
 
-Help developers build Business Tools more efficiently.
+Help developers build business tools more efficiently.
 
 ### Product Matrix
 
