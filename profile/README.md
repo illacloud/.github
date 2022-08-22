@@ -10,7 +10,7 @@ Let's build it together!
 
 ### What we want do
 
-Help developers build business tools more efficiently.
+Accelerate your internal tools development.
 
 ### Product Matrix
 
