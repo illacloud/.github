@@ -14,7 +14,7 @@ Accelerate your internal tools development.
 
 ### Product Matrix
 
-[ILLA Design](https://github.com/illa-family/illa-design): A fully responsive UI Library for React, Vue 3, and Svelte.
+[ILLA Design](https://github.com/illa-family/illa-design): A fully responsive UI Library for React.
 
 [ILLA Builder](https://github.com/illa-family/illa-builder): An open-source low-code Platform for Developers.
 
