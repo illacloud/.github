@@ -1,4 +1,4 @@
-![illa](../assets/images/gitHub-builder-cover-2.png)
+![illa](https://github.com/illa-family/.github/blob/main/assets/images/github-builder-cover-2.png)
 
 ### What is ILLA
 
