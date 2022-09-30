@@ -16,7 +16,7 @@
   •
   <a href="https://github.com/illa-family/illa-design">ILLA DESIGN</a>
   •
-  <a href="https://discord.com/invite/2tGBuJkgd6">Discord</a>
+  <a href="https://discord.gg/zKf3WKCufR">Discord</a>
   •
   <a href="https://twitter.com/illafamily">Twitter</a>
   </h3>
@@ -50,3 +50,6 @@ Accelerate your internal tools development.
 
 
 
+### ILLA in Hacktoberfest
+ILLA is participating in Hacktoberfest2022. Welcome to contribute to [ILLA Builder](https://github.com/illa-family/illa-builder)
+![illa](https://github.com/illa-family/.github/blob/main/assets/images/Hacktoberfest%202022%20-%20Brand%20Guidelines.png)
