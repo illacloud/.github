@@ -12,9 +12,9 @@
 <h3 align="center">
   <b><a href="https://www.illacloud.com/docs/overview">Get Started</a></b>
   •
-  <a href="https://github.com/illa-family/illa-builder">ILLA BUILDER</a>
+  <a href="https://github.com/illa-family/illa-builder">ILLA Builder</a>
   •
-  <a href="https://github.com/illa-family/illa-design">ILLA DESIGN</a>
+  <a href="https://github.com/illa-family/illa-design">ILLA Design</a>
   •
   <a href="https://discord.gg/zKf3WKCufR">Discord</a>
   •
