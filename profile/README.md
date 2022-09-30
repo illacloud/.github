@@ -1,5 +1,5 @@
 <div align="center">
-    <img alt="ILLA Design Logo" width="120px" height="120px" src="https://cdn.illafamily.com/logo.svg"/>
+    <img alt="ILLA Design Logo" width="120px" height="120px" src="https://github.com/illa-family/.github/blob/main/assets/images/ILLALogo.svg"/>
 </div>
 
 <h1 align="center">ILLA</h1>
