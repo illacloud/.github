@@ -10,7 +10,7 @@
 ![illa](https://github.com/illa-family/.github/blob/main/assets/images/github-builder-cover-2.png)
 
 <h3 align="center">
-  <b><a href="https://www.illacloud.com/docs/overview">Get Started</a></b>
+  <b><a href="http://fast-try.illacloud.com">Get Started</a></b>
   •
   <a href="https://github.com/illa-family/illa-builder">ILLA Builder</a>
   •
