@@ -54,4 +54,4 @@ To accelerate your internal tools development.
 ILLA is participating in Hacktoberfest2022. You are welcome to contribute to [ILLA Builder](https://github.com/illa-family/illa-builder)
 
 
-![illa](https://github.com/illa-family/.github/blob/main/assets/images/Hacktoberfest%202022%20-%20Brand%20Guidelines.png)
+![illa](https://github.com/illa-family/.github/blob/main/assets/images/hacktoberNew.png)
