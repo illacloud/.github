@@ -10,7 +10,7 @@
 ![illa](https://github.com/illa-family/.github/blob/main/assets/images/github-builder-cover-2.png)
 
 <h3 align="center">
-  <b><a href="http://fast-try.illacloud.com">Get Started</a></b>
+  <b><a href="http://fast-try.illacloud.com">Live Demo</a></b>
   •
   <a href="https://github.com/illa-family/illa-builder">ILLA Builder</a>
   •
@@ -22,7 +22,7 @@
   </h3>
 
 
-### What is ILLA
+## What is ILLA
 
 ILLA is an open-source company. We want to build an exciting low-code tool.
 
@@ -34,27 +34,37 @@ Let's build it together!
 
 
 
-### What we want do
+## What we want do
 
 To accelerate your internal tools development.
 
-### Fast Try
-#### Build an app within 10 minutes: **[Click Here!](http://fast-try.illacloud.com/)**
 
-##### 🆓 Step 1: Create an account for free and sign in
+
+## Live Demo
+
+<p align="center">We have just released a demo version that can be used to build internal tools quickly🎉</p>
+<p align="center">Click the button below to try out ILLA Builder</p>
+<p align="center">
+<a href="http://fast-try.illacloud.com/dashboard">
+<img alt="Live Demo" width="320px" height="51.98px" src="https://github.com/illa-family/.github/blob/main/assets/images/livedemo1.png" />
+</a></p>
+
+### Tutorial
+
+#### 🆓 Step 1: Create an account for free and sign in**
 
 ![login](https://github.com/illa-family/.github/blob/main/assets/images/login.png)
 
-##### 🎯 Step 2: Create a new app and enter the editor
+#### 🎯 Step 2: Create a new app and enter the editor**
 
 ![newapp](https://illa.s3.ap-northeast-1.amazonaws.com/create-a-new-app1.gif)
 
-##### 🎨 Step 3: Build UI with built-in components
+#### 🎨 Step 3: Build UI with built-in components**
 Build your UI by dragging components to the canvas. We provide dozens of components including charts, tables, forms, and many more in Illa Builder and Illa Design. When components overlap, their position will be automatically adjusted, which makes the layout development easy and flexible.
 
 ![edit](https://illa.s3.ap-northeast-1.amazonaws.com/edit-UI-with-components.gif)
 
-##### 🔌 Step 4: Connect to your data
+#### 🔌 Step 4: Connect to your data**
 Connect to MySQL or REST API through our GUI data connectors. And we will add more than 10 databases and APIs soon.
 
 ![connect](https://illa.s3.ap-northeast-1.amazonaws.com/connect-your-data.gif)
@@ -64,7 +74,7 @@ Connect to MySQL or REST API through our GUI data connectors. And we will add mo
 **💞 Thank you for using ILLA Builder.** 
 
 
-### Product Matrix
+## Product Matrix
 
 [ILLA Design](https://github.com/illa-family/illa-design): A fully responsive UI Library for React.
 
@@ -74,7 +84,7 @@ Connect to MySQL or REST API through our GUI data connectors. And we will add mo
 
 
 
-### ILLA in Hacktoberfest
+## ILLA in Hacktoberfest
 ILLA is participating in Hacktoberfest2022. You are welcome to contribute to [ILLA Builder](https://github.com/illa-family/illa-builder)
 
 
