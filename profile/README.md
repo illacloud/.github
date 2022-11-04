@@ -42,7 +42,6 @@ To accelerate your internal tools development.
 
 ## Live Demo
 
-## 🖥 Live Demo
 <p>We have just released a demo version that can be used to build internal tools quickly🎉</p>
 <p>Click the button below to try out ILLA Builder</p>
 <a href="http://fast-try.illacloud.com">
