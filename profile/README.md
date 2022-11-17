@@ -10,9 +10,11 @@
 
 <p align="center">ILLA is committed to building a powerful open-source framework for low-code tools . </p>
 <p align="center"> Make internal tools development easy and interesting ✨ </p>
-
-![illa](https://github.com/illacloud/.github/blob/main/assets/images/newBuilder.png)
-
+<p align="center">
+<a href="http://fast-try.illacloud.com/">
+  <img src="https://github.com/illacloud/.github/blob/main/assets/images/newBuilder.png">
+</a>
+</p>
 <h3 align="center">
   <b><a href="http://fast-try.illacloud.com">Live Demo</a></b>
   •
