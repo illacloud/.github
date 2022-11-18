@@ -66,7 +66,7 @@ To accelerate your internal tools development.
 #### 🎯 Step 2: Create a new app and enter the editor
 <p align="center">
 <a href="https://fast-try.illacloud.com/">
-  <img src="https://illa.s3.ap-northeast-1.amazonaws.com/create-a-new-app1.gif">
+  <img src="https://github.com/illacloud/.github/blob/main/assets/images/create-a-new-app1.gif">
 </a>
 </p>
 
@@ -83,7 +83,7 @@ Build your UI by dragging components to the canvas. We provide dozens of compone
 Connect to MySQL or REST API through our GUI data connectors. And we will add more than 10 databases and APIs soon.
 <p align="center">
 <a href="https://fast-try.illacloud.com/">
-  <img src="https://illa.s3.ap-northeast-1.amazonaws.com/connect-your-data.gif">
+  <img src="https://github.com/illacloud/.github/blob/main/assets/images/connect-your-data.gif">
 </a>
 </p>
 
