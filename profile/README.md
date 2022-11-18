@@ -11,21 +11,21 @@
 <p align="center">ILLA is committed to building a powerful open-source framework for low-code tools . </p>
 <p align="center"> Make internal tools development easy and interesting ✨ </p>
 <p align="center">
-<a href="http://fast-try.illacloud.com/">
+<a href="https://fast-try.illacloud.com/">
   <img src="https://github.com/illacloud/.github/blob/main/assets/images/newBuilder.png">
 </a>
 </p>
 <h3 align="center">
-  <b><a href="http://fast-try.illacloud.com">Live Demo</a></b>
+  <b><a href="https://fast-try.illacloud.com">Live Demo</a></b>
   •
   <a href="https://github.com/illacloud/illa-builder">ILLA Builder</a>
   •
   <a href="https://github.com/illacloud/illa-design">ILLA Design</a>
   •
-  <a href="https://discord.gg/zKf3WKCufR">Discord</a>
+  <a href="https://discord.gg/illacloud">Discord</a>
   •
-  <a href="https://twitter.com/illafamily">Twitter</a>
-  </h3>
+  <a href="https://twitter.com/illacloudHQ">Twitter</a>
+</h3>
 
 
 ## What is ILLA
@@ -50,7 +50,7 @@ To accelerate your internal tools development.
 
 <p>We have just released a demo version that can be used to build internal tools quickly🎉</p>
 <p>Click the button below to try out ILLA Builder</p>
-<a href="http://fast-try.illacloud.com">
+<a href="https://fast-try.illacloud.com">
 <img alt="Live Demo" width="350px" height="56.85px" src="https://github.com/illacloud/.github/blob/main/assets/images/newdemo2.png" />
 </a>
 
@@ -58,14 +58,14 @@ To accelerate your internal tools development.
 #### 🆓 Step 1: Create an account for free and sign in
 
 <p align="center">
-<a href="http://fast-try.illacloud.com/">
+<a href="https://fast-try.illacloud.com/">
   <img src="https://github.com/illacloud/.github/blob/main/assets/images/login.png">
 </a>
 </p>
 
 #### 🎯 Step 2: Create a new app and enter the editor
 <p align="center">
-<a href="http://fast-try.illacloud.com/">
+<a href="https://fast-try.illacloud.com/">
   <img src="https://illa.s3.ap-northeast-1.amazonaws.com/create-a-new-app1.gif">
 </a>
 </p>
@@ -74,7 +74,7 @@ To accelerate your internal tools development.
 Build your UI by dragging components to the canvas. We provide dozens of components including charts, tables, forms, and many more in Illa Builder and Illa Design. When components overlap, their position will be automatically adjusted, which makes the layout development easy and flexible.
 
 <p align="center">
-<a href="http://fast-try.illacloud.com/">
+<a href="https://fast-try.illacloud.com/">
   <img src="https://github.com/illacloud/.github/blob/main/assets/images/edit-UI-with-components.gif">
 </a>
 </p>
@@ -82,7 +82,7 @@ Build your UI by dragging components to the canvas. We provide dozens of compone
 #### 🔌 Step 4: Connect to your data
 Connect to MySQL or REST API through our GUI data connectors. And we will add more than 10 databases and APIs soon.
 <p align="center">
-<a href="http://fast-try.illacloud.com/">
+<a href="https://fast-try.illacloud.com/">
   <img src="https://illa.s3.ap-northeast-1.amazonaws.com/connect-your-data.gif">
 </a>
 </p>
