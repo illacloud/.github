@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://fast-try.illacloud.com/">
-  <img src="https://github.com/illacloud/.github/blob/main/assets/images/Github%20home.png">
+  <img src="https://github.com/illacloud/.github/blob/main/assets/images/github-home.png">
 </a>
 </p>
 <h3 align="center">
