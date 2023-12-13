@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://cloud.illacloud.com/">
-  <img src="https://cdn.illacloud.com/official-website/img/hacktoberFest/20230919-210525.png">
+  <img src="https://github.com/illacloud/.github/assets/7929686/8c78b3eb-726e-4148-bd07-d5ad859faafd">
 </a>
 </p>
 <h3 align="center">
