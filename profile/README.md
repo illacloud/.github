@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://cloud.illacloud.com?utm_source=github&utm_medium=readme&utm_campaign=github-readme">
-  <img src="https://github.com/illacloud/.github/assets/7929686/8c78b3eb-726e-4148-bd07-d5ad859faafd">
+  <img width="800" alt="github" src="https://github.com/illacloud/.github/assets/7929686/2f07fc5a-4ac3-4754-ad15-0e30e4180fd9">
 </a>
 </p>
 <h3 align="center">
