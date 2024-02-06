@@ -13,6 +13,8 @@
   <a href="https://github.com/illacloud/illa-design">ILLA Design</a>
   •
   <a href="https://discord.gg/illacloud">Discord</a>
+  •
+  <a href="https://twitter.com/illa_cloud">Twitter</a>
 </h3>
 </a>
 
